@@ -1,6 +1,6 @@
 {
     "name": "stylelint-config-hd",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Shareable stylelint config for me",
     "repository": "hugomrdias/stylelint-config-hd",
     "author": "Hugo Dias <hugomrdias@gmail.com> (hugodias.me)",
